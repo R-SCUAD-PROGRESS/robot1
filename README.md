@@ -7,4 +7,4 @@
 - [x] cmake
 
 #### developer
-- <a href=https://me-danuandrean.github.io>Danu andrean</a>
+- suhu rscuad, m. annas , <a href=https://me-danuandrean.github.io>Danu andrean</a>
